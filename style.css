@@ -41,6 +41,13 @@ article {
 	padding-bottom: 10px;
 }
 
+h2 {
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0;
+	padding: 20px 0 0 0;
+}
+
 h1 {
 	background: #ebebeb;
 	color: #777;
@@ -64,6 +71,7 @@ aside {
 	background: #ebebeb;
 	color: #777;
 	margin-bottom: 20px;
+	height: 244px;
 }
 
 footer {
